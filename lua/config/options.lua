@@ -10,3 +10,5 @@ opt.autoindent = true
 opt.tabstop = 4
 opt.shiftwidth = 4
 opt.expandtab = false
+
+opt.fileformats = "dos"
