@@ -10,3 +10,4 @@ map("n", "<A-i>", function()
 end, { desc = "Floating terminal" })
 
 map("t", "<A-i>", "<cmd>close<cr>")
+map("n", "E", "$")
